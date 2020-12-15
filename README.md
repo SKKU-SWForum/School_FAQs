@@ -8,4 +8,5 @@ raven724: Create Repository, upload previous datas from notion.
 (Tayo): Update Cluster FAQs at notion.
 
 영어 번역해주실 분을 구하고 있습니다!!!! (사유: 영어권 학생들을 위한 문서 번역을 위함)
+
 md 작성이 유창한 분을 구하고 있습니다!!! (사유: 비 직관적인 문서 가독성 향상)
