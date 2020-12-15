@@ -6,3 +6,5 @@ This repository is to archive useful informations and archive questions and answ
 Contributor
 raven724: Create Repository, upload previous datas from notion.
 (Tayo): Update Cluster FAQs at notion.
+
+영어 번역해주실 분을 구하고 있습니다!!!!
