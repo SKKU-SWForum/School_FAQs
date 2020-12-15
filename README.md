@@ -1,10 +1,25 @@
 # School_FAQs
 
-This repository is to archive useful informations and archive questions and answers we usually encounter.
-이 리포지토리는 주로 유용한 정보들과 우리가 자주 마주치는 질문들과 그에 대한 답을 저장해 둔 리포지토리입니다.
+## About
 
-Contributor
-raven724: Create Repository, upload previous datas from notion.
-(Tayo): Update Cluster FAQs at notion.
+여기는 대학 생활에 도움이 되는 정보를 모아놓는 리포지토리입니다. 주요 내용은 다음과 같습니다.
 
-md 작성이 유창한 분을 구하고 있습니다!!! (사유: 비 직관적인 문서 가독성 향상)(IssueTracker repository 참고 바랍니다.)
+* 자주 묻는 질문
+* 중요하거나 놓치기 쉬운 공지
+* 면접 질문 예시
+
+---
+
+This repository is a collection of information that may help your college life, such as:
+
+* FAQs
+* Important or ignorable notices
+* Sample interview questions
+
+## Contributors
+
+| Nickname | Description |
+|:--------:|-------------|
+| raven724 | Created this repository, migrated contents from the preceding notion workspace. |
+|  (Tayo)  | Created the [FAQs about the in-ui-ye-ji linux cluster](인의예지%20클러스터.md). |
+|  dropfl  | Translated README into English. |
