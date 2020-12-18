@@ -19,7 +19,7 @@
 
     - You can use sftp programs if you don't want to use the command line. You can use `mobaxterm` for windows.
 
-    [Mobaxterm 사용법](https://github.com/SKKU-SWForum/School_FAQs/blob/main/Mobaxterm%20%EC%82%AC%EC%9A%A9%EB%B2%95.md)
+    [How to use Mobaxterm](https://github.com/SKKU-SWForum/School_FAQs/blob/main/How%20to%20use%20Mobaxterm.md)
 
 4. I would like to change my password.
     - You can use 'yppasswd' command to change password. 
