@@ -1,3 +1,24 @@
+
+# What is Inuiyeji cluster?
+
+'Inuiyeji' cluster is a server cluster that is available for SKKU students who major in Software Engineering. Currently the 'In' server is runs independently, and the 'uiyeji' server is bounded with nfs.
+
+The following notice about the 'Inuiyeji' server is in Korean, so a translated version will be made available soon. ([https://cs.skku.edu/news/notice/view/2587](https://cs.skku.edu/news/notice/view/2587))
+
+
+## Hosts
+- 인(In): `swin.skku.edu`
+- 의(Ui): `swui.skku.edu`
+- 예(Ye): `swye.skku.edu`
+- 지(Ji): `swji.skku.edu`
+
+## Connection guide
+| Type | Value | Remarks |
+|:----:|:--:|------|
+| Port | 1398 | SKKU's date of establishment |
+| ID | Student ID | 10 digit |
+| PW | Last Name | All in capital letters; If this throws an error, try writing your full name in capital letters, with no spaces |
+
 # FAQ
 
 ### Inuiyeji Cluster
@@ -19,7 +40,7 @@
 
     - You can use sftp programs if you don't want to use the command line. You can use `mobaxterm` for windows.
 
-    [How to use Mobaxterm](https://github.com/SKKU-SWForum/School_FAQs/blob/main/How%20to%20use%20Mobaxterm.md)
+    [How to use Mobaxterm?](https://github.com/SKKU-SWForum/School_FAQs/blob/main/Mobaxterm%20%EC%82%AC%EC%9A%A9%EB%B2%95.md)
 
 4. I would like to change my password.
     - You can use 'yppasswd' command to change password. 
