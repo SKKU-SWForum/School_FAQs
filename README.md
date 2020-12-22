@@ -13,7 +13,7 @@
 This repository is a collection of information that may help your college life, such as:
 
 * FAQs
-* Important or ignorable notices
+* Important or easy to miss notices
 * Sample interview questions
 
 ## Contributors
