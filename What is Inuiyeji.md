@@ -3,8 +3,44 @@
 
 'Inuiyeji' cluster is a server cluster that is available for SKKU students who major in Software Engineering. Currently the 'In' server is runs independently, and the 'uiyeji' server is bounded with nfs.
 
-The following notice about the 'Inuiyeji' server is in Korean, so a translated version will be made available soon. ([https://cs.skku.edu/news/notice/view/2587](https://cs.skku.edu/news/notice/view/2587))
+Translation of the below notice about the server. ([https://cs.skku.edu/news/notice/view/2587](https://cs.skku.edu/news/notice/view/2587))
 
+<details>
+<summary>Translated Notice</summary>
+[Software college's 4-node Linux cluster server setup completed]
+
+4-node Linux cluster server is now available for SW college students. 
+
+Students who want to use it can use it freely.
+
+**Hosts:**
+```
+- swin.skku.edu
+
+- swui.skku.edu 
+
+- swye.skku.edu
+
+- swji.skku.edu
+```
+
+
+- SSH Port: 1398 (SKKU's date of establishment)
+
+- ID: Student ID
+
+- Password: Last Name in full capital letters.
+```
+ex: PARK (If this throws an error, try writing your full name in capital letters, with no spaces)
+```
+ 
+- Others:
+1) All accounts are shared by four nodes by NIS.  
+2) To Change password after login, use the following command: `yppasswd`
+3) You can make private homepages by creating a `public_html` directory under the home directory, but due to security concerns, it will be only accessible on campus network. (It is recommended to use this only for html-related classes/courses.)
+4) Account related inquiry 
+- Professor Nam Bum-seok(bnam@skku.edu)
+</details>
 
 ## Hosts
 - 인(In): `swin.skku.edu`
