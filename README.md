@@ -8,6 +8,9 @@
 * 중요하거나 놓치기 쉬운 공지
 * 면접 질문 예시
 
+## 목록
+- [인의예지 클러스터](인의예지%20클러스터.md)
+- [Mobaxterm 사용법](Mobaxterm%20사용법.md)
 ---
 
 This repository is a collection of information that may help your college life, such as:
@@ -16,6 +19,9 @@ This repository is a collection of information that may help your college life, 
 * Important or easy to miss notices
 * Sample interview questions
 
+## Table of contents
+- [What is Inuiyeji.md](What%20is%20Inuiyeji.md)
+- [How to use Mobaxterm.md](How%20to%20use%20Mobaxterm.md)
 ## Contributors
 
 | Nickname | Description |
