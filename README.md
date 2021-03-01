@@ -30,3 +30,4 @@ This repository is a collection of information that may help your college life, 
 |  (Tayo)  | Created the [FAQs about the in-ui-ye-ji linux cluster](인의예지%20클러스터.md). |
 |  dropfl  | Translated README into English. |
 |  daniel2231  | Translated [FAQs about the in-ui-ye-ji linux cluster](What%20is%20Inuiyeji.md) into English. |
+| nhjbest22 | Add examples for [FAQs about the in-ui-ye-ji linux cluster](인의예지%20클러스터.md). |
