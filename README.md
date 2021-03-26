@@ -11,6 +11,7 @@
 ## 목록
 - [인의예지 클러스터](인의예지%20클러스터.md)
 - [Mobaxterm 사용법](Mobaxterm%20사용법.md)
+- [리눅스 기초 명령어](리눅스기초명령어.md)
 ---
 
 This repository is a collection of information that may help your college life, such as:
