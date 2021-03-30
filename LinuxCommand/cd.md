@@ -1,4 +1,4 @@
-### CD - change the working directory
+### cd - change the working directory
 
 1. 용도: 작업중인 디렉토리의 위치를 변경한다
 
