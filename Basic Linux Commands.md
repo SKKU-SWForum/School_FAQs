@@ -20,10 +20,8 @@
    | cd (directory) | Navigate through (directory) | cd Test/ | [Link](https://man7.org/linux/man-pages/man1/cd.1p.html) | [Link](./LinuxCommand/cd.md) |
    | mkdir [name] | Make a new directory with the name [name] | mkdir Test | [Link](https://man7.org/linux/man-pages/man1/mkdir.1.html) |  |
    | cp (option) [name1] [name2] | Copy name1 files/directories to name2 files/directories | cp test1 test2 | [Link](https://man7.org/linux/man-pages/man1/cp.1.html) |  |
-   | mv (option) [name1] [name2] | Move name1 file to name2 file
- | mv file1 Test/file2 | [Link](https://man7.org/linux/man-pages/man1/mv.1.html) |  |
-   | rm (option) [name] | Delete files/directories called [name]
- | rm file1 | [Link](https://man7.org/linux/man-pages/man1/rm.1.html) | [Link](./LinuxCommand/rm.md) |
+   | mv (option) [name1] [name2] | Move name1 file to name2 file | mv file1 Test/file2 | [Link](https://man7.org/linux/man-pages/man1/mv.1.html) |  |
+   | rm (option) [name] | Delete files/directories called [name] | rm file1 | [Link](https://man7.org/linux/man-pages/man1/rm.1.html) | [Link](./LinuxCommand/rm.md) |
    | cat (option) (filename) | List [filename] contents | cat file1 | [Link](https://man7.org/linux/man-pages/man1/cat.1.html) | [Link](./LinuxCommand/cat.md) |
    
     
