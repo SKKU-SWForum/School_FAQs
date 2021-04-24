@@ -23,6 +23,7 @@ This repository is a collection of information that may help your college life, 
 ## Table of contents
 - [What is Inuiyeji.md](What%20is%20Inuiyeji.md)
 - [How to use Mobaxterm.md](How%20to%20use%20Mobaxterm.md)
+- [Basic Linux Commands](Basic%20Linux%20Commands.md)
 ## Contributors
 
 | Nickname | Description |
