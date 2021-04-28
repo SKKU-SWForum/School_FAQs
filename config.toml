@@ -11,6 +11,8 @@ gitRepo = 'https://github.com/SKKU-SWForum/School_FAQs'
 
 # specify whether you want to write some blog posts or not
 enableBlogPost = true
+enableGitInfo = true
+hasCJKLanguage = true
 
 # specify whether you want to show Table of Contents in reading page
 enableTOC = true
