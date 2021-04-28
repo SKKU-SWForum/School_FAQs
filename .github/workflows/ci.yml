@@ -24,13 +24,13 @@ jobs:
 
       - name: Deploy
         if: github.ref == 'refs/heads/main'
-        uses: JamesIves/github-pages-deploy-action@4.1.1
+        uses: JamesIves/github-pages-deploy-action@3.7.1
         with:
-          branch: main
-          folder: public
-          clean: true
-          token: ${{ secrets.GH_TOKEN }}
-          git-config-email: skku-bot@skkuoverflow.com
-          repository-name: SKKU-SWForum/skku-swforum.github.io
-          commit-message: "Update"
-          single-commit: true
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BRANCH: main
+          FOLDER: public
+          CLEAN: true
+          GIT_CONFIG_EMAIL: skku-bot@skkuoverflow.com
+          REPOSITORY_NAME: SKKU-SWForum/skku-swforum.github.io
+          COMMIT_MESSAGE: "Update"
+          SINGLE_COMMIT: true
