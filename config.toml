@@ -1,7 +1,5 @@
-baseURL = "https://skku-swForum"
-defaultContentLanguage = "ko"
+baseURL = "https://skku-swforum.github.io"
 enableEmoji = true
-languageCode = "en-us"
 theme = "toha"
 title = "SKKU Software forum"
 
