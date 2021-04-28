@@ -29,7 +29,7 @@ jobs:
           branch: main
           folder: public
           clean: true
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_TOKEN }}
           git-config-email: skku-bot@skkuoverflow.com
           repository-name: SKKU-SWForum/skku-swforum.github.io
           commit-message: "Update"
