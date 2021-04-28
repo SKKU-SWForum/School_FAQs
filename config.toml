@@ -1,8 +1,26 @@
 baseURL = "https://skku-swForum"
+defaultContentLanguage = "ko"
 enableEmoji = true
 languageCode = "en-us"
 theme = "toha"
 title = "SKKU Software forum"
+
+[languages]
+[languages.en]
+languageName = "English"
+title = "SKKU Software forum"
+weight = 1
+[languages.ko]
+languageName = "한국어"
+title = "성균관대학교 소프트웨어 포럼"
+weight = 2
+
+[markup.tableOfContents]
+endLevel = 6
+startLevel = 1
+
+[outputs]
+home = ['HTML', 'RSS', 'JSON']
 
 [params]
 # GitHub repo URL and branch of your site
