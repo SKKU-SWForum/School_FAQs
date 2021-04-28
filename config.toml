@@ -1,0 +1,37 @@
+baseURL = "https://skkuoverflow.com"
+enableEmoji = true
+theme = "toha"
+title = "SKKU Software forum"
+
+[languages]
+[languages.en]
+languageName = "English"
+title = "SKKU Software forum"
+weight = 1
+[languages.ko]
+languageName = "한국어"
+title = "성균관대학교 소프트웨어 포럼"
+weight = 2
+
+[markup.tableOfContents]
+endLevel = 6
+startLevel = 1
+
+[outputs]
+home = ['HTML', 'RSS', 'JSON']
+
+[params]
+# GitHub repo URL and branch of your site
+gitBranch = 'main'
+gitRepo = 'https://github.com/SKKU-SWForum/School_FAQs'
+
+# specify whether you want to write some blog posts or not
+enableBlogPost = true
+enableGitInfo = true
+hasCJKLanguage = true
+
+# specify whether you want to show Table of Contents in reading page
+enableTOC = true
+
+[params.newsletter]
+enable = false

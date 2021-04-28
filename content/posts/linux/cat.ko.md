@@ -1,3 +1,9 @@
+---
+title: "리눅스 명령어: cat"
+date: 2021-04-29T00:07:30+09:00
+draft: false
+---
+
 ### cat - concatenate files and print on the standard output
 
 1. 용도: 파일의 내용을 확인하는 과정에 사용된다.
