@@ -1,4 +1,4 @@
-baseURL = "https://skku-swforum.github.io"
+baseURL = "https://skkuoverflow.com"
 enableEmoji = true
 theme = "toha"
 title = "SKKU Software forum"
