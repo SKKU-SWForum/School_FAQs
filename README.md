@@ -59,8 +59,8 @@ Please contribute by using following rules. Url of the site is https://skkuoverf
 | Nickname | Description |
 |:--------:|-------------|
 | raven724 | Created this repository, migrated contents from the preceding notion workspace. |
-|  (Tayo)  | Created the [FAQs about the in-ui-ye-ji linux cluster](/content/posts/Inuiyeji.ko.md). |
+|  (Tayo)  | Created the FAQs about the in-ui-ye-ji linux cluster. |
 |  dropfl  | Translated README into English. |
-|  daniel2231  | Translated [FAQs about the in-ui-ye-ji linux cluster](What%20is%20Inuiyeji.md), [Basic Linux Commands](Basic%20Linux%20Commands.md) into English. |
-| nhjbest22 | Add examples for [FAQs about the in-ui-ye-ji linux cluster](인의예지%20클러스터.md). |
+|  daniel2231  | Translated FAQs about the in-ui-ye-ji linux cluster, Basic Linux Commands into English. |
+| nhjbest22 | Add examples for FAQs about the in-ui-ye-ji linux cluster. |
 | kdy1 | Build Github pages for FAQs. |
