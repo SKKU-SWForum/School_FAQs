@@ -19,20 +19,20 @@ draft: false
 
    - ls
 
-     ![cat](/posts/linux/images/ls.png)
+     ![cat](static/linux/ls.png)
 
    - ls -a
 
-     ![ls -a](/posts/linux/images/ls%20-a.png)
+     ![ls -a](static/linux/ls%20-a.png)
 
    - ls -l
 
-     ![ls -l](/posts/linux/images/ls%20-l.png)
+     ![ls -l](static/linux/ls%20-l.png)
 
    - ls -al
 
-     ![ls -al](/posts/linux/images/ls%20-al.png)
+     ![ls -al](static/linux/ls%20-al.png)
 
    - ls -alh
 
-     ![ls -alh](/posts/linux/images/ls%20-alh.png)
+     ![ls -alh](static/linux/ls%20-alh.png)
