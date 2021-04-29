@@ -25,6 +25,11 @@ FAQ 정보들을 사이트화하면서 기여 방법이 일부 차이가 생겼�
 - 별도의 폴더를 생성하여 여러 정보들 (이미지들)을 담으셔도 됩니다.
 
 
+## issues
+- 현재 사이트에서 이미지가 출력되지 않는 현상이 있어 수정중입니다.
+- 모바일 환경에서 일부 표가 잘려서 확인이 안되는 현상이 있습니다.
+
+
 --------------------
 
 This repository is a collection of information that may help your college life, such as:
@@ -54,7 +59,7 @@ Please contribute by using following rules. Url of the site is https://skkuoverf
 | Nickname | Description |
 |:--------:|-------------|
 | raven724 | Created this repository, migrated contents from the preceding notion workspace. |
-|  (Tayo)  | Created the [FAQs about the in-ui-ye-ji linux cluster](인의예지%20클러스터.md). |
+|  (Tayo)  | Created the [FAQs about the in-ui-ye-ji linux cluster](/content/posts/Inuiyeji.ko.md). |
 |  dropfl  | Translated README into English. |
 |  daniel2231  | Translated [FAQs about the in-ui-ye-ji linux cluster](What%20is%20Inuiyeji.md), [Basic Linux Commands](Basic%20Linux%20Commands.md) into English. |
 | nhjbest22 | Add examples for [FAQs about the in-ui-ye-ji linux cluster](인의예지%20클러스터.md). |
