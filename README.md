@@ -40,9 +40,9 @@ This repository is a collection of information that may help your college life, 
 * Informations useful for taking courses.
 
 ## Table of contents
-- [인의예지 클러스터](/content/posts/Inuiyeji.en.md)
-- [Mobaxterm 사용법](/content/posts/mobaxterm.en.md)
-- [리눅스 기초 명령어](/content/posts/linux/list.en.md)
+- [What is Inuiyeji?](/content/posts/Inuiyeji.en.md)
+- [How to use Mobaxterm](/content/posts/mobaxterm.en.md)
+- [Basic linux commands](/content/posts/linux/list.en.md)
 
 
 ## How to contribute
