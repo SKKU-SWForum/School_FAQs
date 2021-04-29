@@ -14,11 +14,11 @@ draft: false
 
    - cd
 
-     ![cd](./Images/cd.png)
+     ![cd](https://skkuoverflow.com/ko/posts/linux/Images/cd.png)
 
    - cd (directory)
 
-     ![cd Test](./Images/cdtest.png)
+     ![cd Test](https://skkuoverflow.com/ko/posts/linux/Images/cdtest.png)
 
 - 디렉토리 명에서 활용하는 기호
 

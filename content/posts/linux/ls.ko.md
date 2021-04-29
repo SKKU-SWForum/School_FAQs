@@ -19,20 +19,20 @@ draft: false
 
    - ls
 
-     ![ls](./Images/ls.png)
+     ![ls](https://skkuoverflow.com/ko/posts/linux/Images/ls.png)
 
    - ls -a
 
-     ![ls -a](./Images/ls -a.png)
+     ![ls -a](https://skkuoverflow.com/ko/posts/linux/Images/ls%20-a.png)
 
    - ls -l
 
-     ![ls -l](./Images/ls -l.png)
+     ![ls -l](https://skkuoverflow.com/ko/posts/linux/Images/ls%20-l.png)
 
    - ls -al
 
-     ![ls -al](./Images/ls -al.png)
+     ![ls -al](https://skkuoverflow.com/ko/posts/linux/Images/ls%20-al.png)
 
    - ls -alh
 
-     ![ls -alh](./Images/ls -alh.png)
+     ![ls -alh](https://skkuoverflow.com/ko/posts/linux/Images/ls%20-alh.png)
