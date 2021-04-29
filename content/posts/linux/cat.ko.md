@@ -20,8 +20,8 @@ draft: false
 
    - cat
 
-     ![cat](https://skkuoverflow.com/posts/linux/images/cat.png)
+     ![cat](/linux/cat.png)
 
    - cat -A
 
-     ![cat -A](https://skkuoverflow.com/posts/linux/images/cata.png)
+     ![cat -A](/linux/cata.png)
