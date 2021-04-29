@@ -19,20 +19,20 @@ draft: false
 
    - ls
 
-     ![ls](https://github.com/SKKU-SWForum/School_FAQs/blob/main/content/posts/linux/Images/ls.png)
+     ![cat](/posts/linux/images/ls.png)
 
    - ls -a
 
-     ![ls -a](https://github.com/SKKU-SWForum/School_FAQs/blob/main/content/posts/linux/Images/ls%20-a.png)
+     ![ls -a](/posts/linux/images/ls%20-a.png)
 
    - ls -l
 
-     ![ls -l](https://github.com/SKKU-SWForum/School_FAQs/blob/main/content/posts/linux/Images/ls%20-l.png)
+     ![ls -l](/posts/linux/images/ls%20-l.png)
 
    - ls -al
 
-     ![ls -al](https://github.com/SKKU-SWForum/School_FAQs/blob/main/content/posts/linux/Images/ls%20-al.png)
+     ![ls -al](/posts/linux/images/ls%20-al.png)
 
    - ls -alh
 
-     ![ls -alh](https://github.com/SKKU-SWForum/School_FAQs/blob/main/content/posts/linux/Images/ls%20-alh.png)
+     ![ls -alh](/posts/linux/images/ls%20-alh.png)

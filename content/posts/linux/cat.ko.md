@@ -20,8 +20,8 @@ draft: false
 
    - cat
 
-     ![cat](https://github.com/SKKU-SWForum/School_FAQs/blob/main/content/posts/linux/Images/cat.png)
+     ![cat](/posts/linux/images/cat.png)
 
    - cat -A
 
-     ![cat -A](https://github.com/SKKU-SWForum/School_FAQs/blob/main/content/posts/linux/Images/cata.png)
+     ![cat](/posts/linux/images/cata.png)
