@@ -20,8 +20,8 @@ draft: false
 
    - cat
 
-     ![cat](/static/linux/cat.png)
+     ![cat](static/linux/cat.png)
 
    - cat -A
 
-     ![cat -A](/atic/linux/cata.png)
+     ![cat -A](static/linux/cata.png)
