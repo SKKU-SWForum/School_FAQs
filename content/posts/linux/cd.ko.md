@@ -14,11 +14,11 @@ draft: false
 
    - cd
 
-     ![cat](static/linux/cd.png)
+     ![cd](/linux/cd.png)
 
    - cd (directory)
 
-     ![cat](static/linux/cdtest.png)
+     ![cd test](/linux/cdtest.png)
 
 - 디렉토리 명에서 활용하는 기호
 

@@ -22,7 +22,7 @@ draft: false
    | command                     | description                                      | example             | man page                                                   | usage                         |
    | --------------------------- | :----------------------------------------------- | ------------------- | ---------------------------------------------------------- | ----------------------------- |
    | ls (option) (directory)     | directory 내 리눅스 파일 정보 탐색               | ls                  | [Link](https://man7.org/linux/man-pages/man1/ls.1.html)    | [Link](https://skkuoverflow.com/ko/posts/linux/ls/)  |
-   | cd (directory)              | directory 로 경로를 이동                         | cd Test/            | [Link](https://man7.org/linux/man-pages/man1/cd.1p.html)   | [Link](https://skkuoverflow.com/ko/posts/linux/cd/))  |
+   | cd (directory)              | directory 로 경로를 이동                         | cd Test/            | [Link](https://man7.org/linux/man-pages/man1/cd.1p.html)   | [Link](https://skkuoverflow.com/ko/posts/linux/cd/)  |
    | mkdir [name]                | name을 이름으로 가진 directory 생성              | mkdir Test          | [Link](https://man7.org/linux/man-pages/man1/mkdir.1.html) |                               |
    | cp (option) [name1] [name2] | name1 파일/디렉토리를 name2 파일/디렉토리로 복사 | cp test1 test2      | [Link](https://man7.org/linux/man-pages/man1/cp.1.html)    |                               |
    | mv (option) [name1] [name2] | name1 파일을 name2파일로 이동                    | mv file1 Test/file2 | [Link](https://man7.org/linux/man-pages/man1/mv.1.html)    |                               |
