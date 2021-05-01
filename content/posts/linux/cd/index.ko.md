@@ -4,23 +4,26 @@ date: 2021-04-29T00:07:30+09:00
 draft: false
 ---
 
-### cd - change the working directory
+# cd
 
-1. 용도: 작업중인 디렉토리의 위치를 변경한다
+Change the working directory
 
-2. 주의사항: 이동할 디렉토리를 지정하지 않으면 해당 계정의 HOME Directory (일반적으로 /home/(계정이름)/ or ~)로 이동한다.
+{{< vs 2 >}}
 
-3. 예시
+---
+## 용도
 
-   - cd
+작업중인 디렉토리의 위치를 변경한다
 
-     ![cd](/linux/cd.png)
 
-   - cd (directory)
+#### 주의사항 
 
-     ![cd test](/linux/cdtest.png)
+이동할 디렉토리를 지정하지 않으면 해당 계정의 HOME Directory (일반적으로 /home/(계정이름)/ or ~)로 이동한다.
 
-- 디렉토리 명에서 활용하는 기호
+{{< vs 2 >}}
+
+---
+## 디렉토리 명에서 활용하는 기호
 
   | Notation | Meanings                                              |
   | -------- | ----------------------------------------------------- |
@@ -29,3 +32,19 @@ draft: false
   | .        | 지금 작업중인 디렉토리                                |
   | ..       | 지금 작업중인 디렉토리의 상위 디렉토리                |
   | -        | 지금 작업하기 이전의 디렉토리 (뒤로가기)              |
+
+
+{{< vs 2 >}}
+
+---
+## 예시
+
+   - *cd*
+
+     {{< img src="images/cd.png" >}}
+
+      {{< vs 2 >}}
+   - *cd (directory)*
+
+     {{< img src="images/cdtest.png" >}}
+
