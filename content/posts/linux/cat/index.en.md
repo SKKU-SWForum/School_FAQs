@@ -2,12 +2,29 @@
 title: "Linux command: cat"
 date: 2021-04-29T00:07:30+09:00
 draft: false
+hero: images/cat-hero.png
+menu:
+  sidebar:
+    name: cat
+    identifier: linux-cat
+    parent: linux
+    weight: 10
 ---
 
-### cat - concatenate files and print on the standard output
 
-1. Usage: Used to verify the contents of a file.
-2. Options
+# cat 
+concatenate files and print on the standard output
+
+{{< vs 2 >}}
+
+---
+## Usage
+Used to verify the contents of a file.
+
+{{< vs 2 >}}
+
+---
+## Options
 
    | Useful options | Usage                                                                              |
    | -------------- | ---------------------------------------------------------------------------------- |
@@ -16,11 +33,16 @@ draft: false
    | -E             | Prints $ at the end of each line.                                                  |
    | -T             | Prints TAB in the form of ^l.                                                      |
 
-3. 예시
+{{< vs 2 >}}
 
-   - cat
+---
+## Examples
 
-     ![cat](/linux/cat.png)
-   - cat -A
+   - *cat*
+  
+      {{< img src="images/cat.png" >}}
 
-     ![cat -a](/linux/cata.png)
+   {{< vs 2>}}
+   - *cat -A*
+
+     {{< img src="images/cata.png" >}}
