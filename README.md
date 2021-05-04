@@ -1,4 +1,7 @@
 # School_FAQs
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## About
 
@@ -71,6 +74,19 @@ Please contribute by using following rules. Url of the site is https://skkuoverf
 ## Contributors
 
 | Nickname | Description |
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/raven724"><img src="https://avatars.githubusercontent.com/u/39472872?v=4?s=100" width="100px;" alt=""/><br /><sub><b>BlackRaven</b></sub></a><br /><a href="#projectManagement-raven724" title="Project Management">📆</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 |:--------:|-------------|
 | raven724 | Created this repository, migrated contents from the preceding notion workspace. |
 |  (Tayo)  | Created the FAQs about the in-ui-ye-ji linux cluster. |
