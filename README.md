@@ -73,7 +73,6 @@ Please contribute by using following rules. Url of the site is https://skkuoverf
 
 ## Contributors
 
-| Nickname | Description |
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
@@ -87,10 +86,4 @@ Please contribute by using following rules. Url of the site is https://skkuoverf
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
-|:--------:|-------------|
-| raven724 | Created this repository, migrated contents from the preceding notion workspace. |
-|  (Tayo)  | Created the FAQs about the in-ui-ye-ji linux cluster. |
-|  dropfl  | Translated README into English. |
-|  daniel2231  | Translated FAQs about the in-ui-ye-ji linux cluster, Basic Linux Commands into English. |
-| nhjbest22 | Add examples for FAQs about the in-ui-ye-ji linux cluster. |
-| kdy1 | Build Github pages for FAQs. |
+
