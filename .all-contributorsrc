@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "daniel2231",
+      "name": "Daniel2231",
+      "avatar_url": "https://avatars.githubusercontent.com/u/39212398?v=4",
+      "profile": "https://youturn.tech/",
+      "contributions": [
+        "bug"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "School_FAQs",
+  "projectOwner": "SKKU-SWForum",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
