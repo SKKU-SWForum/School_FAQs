@@ -80,7 +80,6 @@ Please contribute by using following rules. Url of the site is https://skkuoverf
   <tr>
     <td align="center"><a href="https://github.com/raven724"><img src="https://avatars.githubusercontent.com/u/39472872?v=4?s=100" width="100px;" alt=""/><br /><sub><b>BlackRaven</b></sub></a><br /><a href="#projectManagement-raven724" title="Project Management">📆</a></td>
     <td align="center"><a href="https://kdy1.github.io"><img src="https://avatars.githubusercontent.com/u/29931815?v=4?s=100" width="100px;" alt=""/><br /><sub><b>강동윤</b></sub></a><br /><a href="https://github.com/SKKU-SWForum/School_FAQs/commits?author=kdy1" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://www.overstellar.se/"><img src="https://avatars.githubusercontent.com/u/635?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Daniel Eriksson</b></sub></a><br /><a href="#translation-daniel" title="Translation">🌍</a> <a href="#content-daniel" title="Content">🖋</a></td>
   </tr>
 </table>
 
