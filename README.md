@@ -83,6 +83,7 @@ Please contribute by using following rules. Url of the site is https://skkuoverf
     <td align="center"><a href="http://dropfl.github.io/docs/"><img src="https://avatars.githubusercontent.com/u/18409052?v=4?s=100" width="100px;" alt=""/><br /><sub><b>DropFL</b></sub></a><br /><a href="#translation-dropfl" title="Translation">🌍</a></td>
     <td align="center"><a href="https://youturn.tech/"><img src="https://avatars.githubusercontent.com/u/39212398?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Daniel2231</b></sub></a><br /><a href="#translation-daniel2231" title="Translation">🌍</a> <a href="#content-daniel2231" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/nhjbest22"><img src="https://avatars.githubusercontent.com/u/67857712?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Seungmin Nam</b></sub></a><br /><a href="#example-nhjbest22" title="Examples">💡</a> <a href="#content-nhjbest22" title="Content">🖋</a></td>
+    <td align="center"><a href=""><img src="https://www.google.com/url?sa=i&url=http%3A%2F%2Fblog.naver.com%2Fi_coon%2F120152117446&psig=AOvVaw1iqsEs25LOXxWfcsb3-BDT&ust=1620196763153000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCND_r8G1r_ACFQAAAAAdAAAAABAD" width="100px;" alt=""/><br /><sub><b>Tayo</b></sub></a><br /><a href="#example-nhjbest22" title="Examples">💡</a> <a href="#content-tayo" title="Content">🖋</a></td>
   </tr>
 </table>
 
