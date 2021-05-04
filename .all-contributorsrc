@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "raven724",
+      "name": "BlackRaven",
+      "avatar_url": "https://avatars.githubusercontent.com/u/39472872?v=4",
+      "profile": "https://github.com/raven724",
+      "contributions": [
+        "projectManagement"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "School_FAQs",
+  "projectOwner": "SKKU-SWForum",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
