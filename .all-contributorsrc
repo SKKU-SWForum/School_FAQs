@@ -40,6 +40,15 @@
         "example",
         "content"
       ]
+    },
+    {
+      "login": "dropfl",
+      "name": "DropFL",
+      "avatar_url": "https://avatars.githubusercontent.com/u/18409052?v=4",
+      "profile": "http://dropfl.github.io/docs/",
+      "contributions": [
+        "translation"
+      ]
     }
   ],
   "contributorsPerLine": 7,
