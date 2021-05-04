@@ -32,6 +32,16 @@
         "translation",
         "content"
       ]
+    },
+    {
+      "login": "nhjbest22",
+      "name": "Seungmin Nam",
+      "avatar_url": "https://avatars.githubusercontent.com/u/67857712?v=4",
+      "profile": "https://github.com/nhjbest22",
+      "contributions": [
+        "example",
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
