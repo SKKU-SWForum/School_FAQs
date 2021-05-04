@@ -2,6 +2,13 @@
 title: "인의예지 클러스터"
 date: 2021-04-29T00:07:30+09:00
 draft: false
+hero: images/inuiyeji-hero.png
+menu:
+  sidebar:
+    name: 인의예지
+    identifier: school-inuiyeji
+    parent: school
+    weight: 10
 ---
 
 # 인의예지 클러스터

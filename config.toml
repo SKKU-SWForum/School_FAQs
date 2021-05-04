@@ -24,6 +24,7 @@ home = ['HTML', 'RSS', 'JSON']
 # GitHub repo URL and branch of your site
 gitBranch = 'main'
 gitRepo = 'https://github.com/SKKU-SWForum/School_FAQs'
+background = "images/site/background.jpg"
 
 # specify whether you want to write some blog posts or not
 enableBlogPost = true
@@ -33,5 +34,11 @@ hasCJKLanguage = true
 # specify whether you want to show Table of Contents in reading page
 enableTOC = true
 
+
 [params.newsletter]
 enable = false
+
+[params.logo]
+main = "/images/site/main-logo.png"
+inverted = "/images/site/main-logo.png"
+favicon = "/images/site/main-logo.png"

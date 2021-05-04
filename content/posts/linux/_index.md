@@ -1,8 +1,8 @@
 ---
-title: Linux Basic Commands
+title: 리눅스 기초 명령어
 menu:
   sidebar:
-    name: Linux Basic Commands
+    name: 리눅스 기초 명령어
     identifier: linux
     weight: 10
 ---

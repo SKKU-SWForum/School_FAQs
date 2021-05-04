@@ -2,6 +2,7 @@
 title: "List of Linux commands"
 date: 2021-04-29T00:07:30+09:00
 draft: false
+hero: images/commands-hero.png
 menu:
   sidebar:
     name: Lists of Linux commands

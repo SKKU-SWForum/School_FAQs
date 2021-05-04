@@ -2,6 +2,13 @@
 title: "Inuiyeji cluster"
 date: 2021-04-29T00:07:30+09:00
 draft: false
+hero: images/inuiyeji-hero.png
+menu:
+  sidebar:
+    name: Inuiyeji
+    identifier: school-inuiyeji
+    parent: school
+    weight: 10
 ---
 
 # What is Inuiyeji cluster?
