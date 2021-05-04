@@ -3,6 +3,6 @@ title: 학교
 menu:
   sidebar:
     name: 학교
-    identifier: School
+    identifier: school
     weight: 10
 ---

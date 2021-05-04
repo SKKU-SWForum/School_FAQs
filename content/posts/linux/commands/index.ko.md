@@ -2,6 +2,13 @@
 title: "리눅스 명령어"
 date: 2021-04-29T00:07:30+09:00
 draft: false
+hero: images/commands-hero.png
+menu:
+  sidebar:
+    name: 명령어 모음
+    identifier: linux-lists
+    parent: linux
+    weight: 10
 ---
 
 # 리눅스 기초 명령어 모음

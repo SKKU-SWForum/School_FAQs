@@ -2,6 +2,13 @@
 title: "리눅스 명령어: cd"
 date: 2021-04-29T00:07:30+09:00
 draft: false
+hero: images/cd-hero.png
+menu:
+  sidebar:
+    name: cd
+    identifier: linux-cd
+    parent: linux
+    weight: 10
 ---
 
 # cd

@@ -2,6 +2,13 @@
 title: "Mobaxterm"
 date: 2021-04-29T00:07:30+09:00
 draft: false
+hero: images/mobaxterm-hero.png
+menu:
+  sidebar:
+    name: Mobaxterm
+    identifier: school-mobaxterm
+    parent: school
+    weight: 10
 ---
 
 # How to use Mobaxterm

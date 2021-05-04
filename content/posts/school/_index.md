@@ -3,6 +3,6 @@ title: School
 menu:
   sidebar:
     name: School
-    identifier: School
+    identifier: school
     weight: 10
 ---
