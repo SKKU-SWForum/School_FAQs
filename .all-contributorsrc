@@ -13,6 +13,15 @@
       "contributions": [
         "projectManagement"
       ]
+    },
+    {
+      "login": "kdy1",
+      "name": "강동윤",
+      "avatar_url": "https://avatars.githubusercontent.com/u/29931815?v=4",
+      "profile": "https://kdy1.github.io",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
