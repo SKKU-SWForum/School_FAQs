@@ -24,12 +24,20 @@
       ]
     },
     {
-      "login": "daniel",
-      "name": "Daniel Eriksson",
-      "avatar_url": "https://avatars.githubusercontent.com/u/635?v=4",
-      "profile": "https://www.overstellar.se/",
+      "login": "daniel2231",
+      "name": "Daniel2231",
+      "avatar_url": "https://avatars.githubusercontent.com/u/39212398?v=4",
+      "profile": "https://youturn.tech/",
       "contributions": [
         "translation",
+      ]
+    },
+      "login": "nhjbest22",
+      "name": "Seungmin Nam",
+      "avatar_url": "https://avatars.githubusercontent.com/u/67857712?v=4",
+      "profile": "https://github.com/nhjbest22",
+      "contributions": [
+        "example",
         "content"
       ]
     },
