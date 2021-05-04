@@ -22,6 +22,16 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "daniel",
+      "name": "Daniel Eriksson",
+      "avatar_url": "https://avatars.githubusercontent.com/u/635?v=4",
+      "profile": "https://www.overstellar.se/",
+      "contributions": [
+        "translation",
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
