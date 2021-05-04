@@ -32,6 +32,16 @@
         "translation",
         "content"
       ]
+    },
+    {
+      "login": "daniel2231",
+      "name": "Daniel2231",
+      "avatar_url": "https://avatars.githubusercontent.com/u/39212398?v=4",
+      "profile": "https://youturn.tech/",
+      "contributions": [
+        "translation",
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
