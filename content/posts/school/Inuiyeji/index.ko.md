@@ -55,8 +55,7 @@ menu:
 
    sftp를 지원하는 프로그램을 활용해도 되는데, 윈도우에는 대표적으로 Mobaxterm이 있습니다.  
    자세한 내용은 [해당 문서](https://skkuoverflow.com/ko/posts/mobaxterm/)를 참고해주세요!
-
-
+         
    또다른 방법으로는 VSCode를 연동해서 파일을 보내는 방법도 있습니다. 자세한 내용은 [해당 문서](https://skkuoverflow.com/ko/posts/vscode)를 참고해주세요! 
 
 5. **인의예지에서 파일을 받고 싶은데 어떻게 받죠?**
