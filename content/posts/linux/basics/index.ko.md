@@ -38,7 +38,7 @@ menu:
    3. VSCode로 접속이 가능한가요?
 
    - 그럼요!
-   - 내용을 보강해서 새롭게 정리했습니다. ![여기](https://skkuoverflow.com/ko/posts/school/vscode/)를 클릭해보세요!
+   - 내용을 보강해서 새롭게 정리했습니다. [여기](https://skkuoverflow.com/ko/posts/school/vscode/)를 클릭해보세요!
 
 ### 인의예지 서버에서 놀아보기
    
