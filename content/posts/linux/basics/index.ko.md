@@ -38,18 +38,7 @@ menu:
    3. VSCode로 접속이 가능한가요?
 
    - 그럼요!
-
-     1. Remote-SSH 플러그인이 필요합니다. 설치해줍시다.
-
-     2. Ctrl+Shift+P를 눌러 옵션 창을 연 다음에 Remote-SSH: Add New SSH Host를 검색합시다.
-
-     3. 명령어를 입력하는 창에 위의 명령어를 입력해봅시다. * 한글 사용자명을 가진 경우 문제가 있을 수 있다고 합니다. 혹시 확인되면 제보 바랍니다.
-
-     4. 오른쪽 아래에 Host added!가 뜨면 왼쪽의 Remote 탭을 통해서 접속을 시도합시다.
-
-         {{< img src="images/result.PNG" >}}
-
-     5. 이제 swji.skku.edu 옆의 폴더 버튼을 눌러 접속을 시도해봅시다. 새로운 창이 뜨면서 비밀번호를 입력하는 창이 뜨면 정상입니다!
+   - 내용을 보강해서 새롭게 정리했습니다. ![여기](https://skkuoverflow.com/ko/posts/school/vscode/)를 클릭해보세요!
 
 ### 인의예지 서버에서 놀아보기
    
