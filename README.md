@@ -1,6 +1,6 @@
 # School_FAQs
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## About
@@ -45,8 +45,14 @@ FAQ 정보들을 사이트화하면서 기여 방법이 일부 차이가 생겼�
 
 ## issues
 - 모바일 환경에서 일부 표가 잘려서 확인이 안되는 현상이 있습니다.
+- 한국어 설정시 한국 깃발이 출력되지 않는 현상이 있습니다.
 
 
+## 내용을 활용하시기 이전에...
+- 내용을 활용하는 것은 물론 자유입니다.
+- 다만 학과 수업 등에 언급하시려는 경우에는 Issue를 통해서 언급 한번만 부탁드리겠습니다.
+- 언급된 페이지 내용에 문제가 있는 경우(업데이트가 이루어지지 않은 경우) 정정해야할 필요가 있기 때문입니다.
+- 확인 후 정정이 필요한 경우에는 Issue를 통해서 올려주시면 감사하겠습니다.
 --------------------
 
 This repository is a collection of information that may help your college life, such as:
