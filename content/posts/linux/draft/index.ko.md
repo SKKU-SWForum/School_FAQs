@@ -25,6 +25,13 @@ list directory contents
 {{< vs 2 >}}
 
 ---
+## 명령어 포맷
+<!-- 명령어 작성 방식 -->
+ls [directory]
+
+{{< vs 2 >}}
+
+---
 ## 옵션
 <!-- 명령어 주 활용 옵션 작성 -->
 | Useful options       | Usage                                                         |

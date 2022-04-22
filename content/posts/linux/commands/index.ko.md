@@ -23,8 +23,8 @@ menu:
 
    | Notation  | Meaning                                                       |
    | --------- | ------------------------------------------------------------- |
-   | (-------) | 입력하지 않아도 되는 부가 옵션                                |
-   | [------]  | command 실행에 필수적이거나 없으면 실행 전과 변화가 없는 옵션 |
+   | [------]  | 입력하지 않아도 되는 부가 옵션                                |
+   | (------)  | command 실행에 필수적이거나 없으면 실행 전과 변화가 없는 옵션 |
    | usage     | 구체적인 활용법을 정리한 페이지로 링크                        |
 
 {{< vs 2 >}}
@@ -34,13 +34,13 @@ menu:
 
 | command                     | description                                      | example             | man page                                                   | usage                         |
 | --------------------------- | :----------------------------------------------- | ------------------- | ---------------------------------------------------------- | ----------------------------- |
-| ls (option) (directory)     | directory 내 리눅스 파일 정보 탐색               | ls                  | [Link](https://man7.org/linux/man-pages/man1/ls.1.html)    | [Link](https://skkuoverflow.com/ko/posts/linux/ls/)  |
-| cd (directory)              | directory 로 경로를 이동                         | cd Test/            | [Link](https://man7.org/linux/man-pages/man1/cd.1p.html)   | [Link](https://skkuoverflow.com/ko/posts/linux/cd/)  |
-| mkdir [name]                | name을 이름으로 가진 directory 생성              | mkdir Test          | [Link](https://man7.org/linux/man-pages/man1/mkdir.1.html) |                               |
-| cp (option) [name1] [name2] | name1 파일/디렉토리를 name2 파일/디렉토리로 복사 | cp test1 test2      | [Link](https://man7.org/linux/man-pages/man1/cp.1.html)    |                               |
-| mv (option) [name1] [name2] | name1 파일을 name2파일로 이동                    | mv file1 Test/file2 | [Link](https://man7.org/linux/man-pages/man1/mv.1.html)    |                               |
-| rm (option) [name]          | name 파일/디렉토리를 삭제                        | rm file1            | [Link](https://man7.org/linux/man-pages/man1/rm.1.html)    | [Link](https://skkuoverflow.com/ko/posts/linux/rm/)  |
-| cat (option) (filename)     | filename 내용을 출력                             | cat file1           | [Link](https://man7.org/linux/man-pages/man1/cat.1.html)   | [Link](https://skkuoverflow.com/ko/posts/linux/cat/) |
+| ls [OPTION] [DIRECTORY]     | DIRECTORY 내 리눅스 파일 정보 탐색               | ls                  | [Link](https://man7.org/linux/man-pages/man1/ls.1.html)    | [Link](https://skkuoverflow.com/ko/posts/linux/ls/)  |
+| cd [DIRECTORY]              | DIRECTORY 로 경로를 이동                         | cd Test/            | [Link](https://man7.org/linux/man-pages/man1/cd.1p.html)   | [Link](https://skkuoverflow.com/ko/posts/linux/cd/)  |
+| mkdir (NAME)                | NAME을 이름으로 가진 DIRECTORY 생성              | mkdir Test          | [Link](https://man7.org/linux/man-pages/man1/mkdir.1.html) |                               |
+| cp [OPTION] (NAME1) (NAME2) | NAME1 파일/디렉토리를 NAME2 파일/디렉토리로 복사 | cp test1 test2      | [Link](https://man7.org/linux/man-pages/man1/cp.1.html)    |                               |
+| mv [OPTION] (NAME1) (NAME2) | NAME1 파일을 NAME2파일로 이동                    | mv file1 Test/file2 | [Link](https://man7.org/linux/man-pages/man1/mv.1.html)    |                               |
+| rm [OPTION] (NAME)          | NAME 파일/디렉토리를 삭제                        | rm file1            | [Link](https://man7.org/linux/man-pages/man1/rm.1.html)    | [Link](https://skkuoverflow.com/ko/posts/linux/rm/)  |
+| cat [OPTION] [FILENAME]     | FILENAME 내용을 출력                             | cat file1           | [Link](https://man7.org/linux/man-pages/man1/cat.1.html)   | [Link](https://skkuoverflow.com/ko/posts/linux/cat/) |
 
 {{< vs 2 >}}
 
@@ -57,24 +57,25 @@ menu:
 
 | command                    | description                                    | example              | caution      |
 | -------------------------- | ---------------------------------------------- | -------------------- | ------------ |
-| apt update                 | 기존에 설치된 패키지의 업데이트 확인           | sudo apt update      |              |
-| apt upgrade                | 업데이트할 패키지가 있는 경우 업데이트 진행    | sudo apt upgrade     | **CAUTION!** |
-| apt install [package]      | package와 package가 요구하는 추가 package 설치 | sudo apt install gcc | Caution      |
-| apt-cache policy [package] | package와 package에 대한 정보 탐색             | apt-cache policy gcc |              |
+| apt update                 | 기존에 설치된 패키지의 업데이트 확인              | sudo apt update      |              |
+| apt upgrade                | 업데이트할 패키지가 있는 경우 업데이트 진행        | sudo apt upgrade     | **CAUTION!** |
+| apt install (PACKAGE)      | PACKAGE와 PACKAGE가 요구하는 추가 PACKAGE 설치   | sudo apt install gcc | Caution      |
+| apt-cache policy (PACKAGE) | PACKAGE와 PACKAGE에 대한 정보 탐색               | apt-cache policy gcc |              |
 
 {{< vs 2 >}}
 
 ---
 ## Others
 
-| command       | description                                                  | example |
-| ------------- | ------------------------------------------------------------ | ------- |
-| man [command] | command의 역할, 활용법, 옵션 등 매뉴얼을 출력해줍니다. RTFM! | man cat |
+| command   | description                                            | example |
+| --------- | -------------------------------------------------------| ------- |
+| man (CMD) | CMD 역할, 활용법, 옵션 등 매뉴얼을 출력해줍니다. RTFM!!   | man cat |
 
 ---
 
 # Contributors
 
-| Name     | Contribution                                                            |
-| -------- | ----------------------------------------------------------------------- |
-| raven724 | Create file, write information, Linux filesystem, Linux package manager |
+| Name       | Contribution                                                            |
+| ---------- | ----------------------------------------------------------------------- |
+| raven724   | Create file, write information, Linux filesystem, Linux package manager |
+| daniel2231 | Update hero files, translate to English                                 |
