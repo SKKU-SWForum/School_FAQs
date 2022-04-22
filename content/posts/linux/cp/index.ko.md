@@ -2,11 +2,11 @@
 title: "리눅스 명령어 cp"
 date: 2022-04-22T22:49:30+09:00
 draft: false
-hero: image-hero
+hero: images/cp-hero.png
 menu:
   sidebar:
     name: cp
-    identifier: images/cp-hero.png
+    identifier: linux-cp
     parent: linux
     weight: 10
 ---
