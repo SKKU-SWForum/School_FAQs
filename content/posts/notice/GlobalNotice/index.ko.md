@@ -1,6 +1,6 @@
 ---
 title: "페이지 공지"
-date: 2021-05-25T11:11:30+09:00
+date: 2022-04-22T18:29:00+09:00
 draft: false
 menu:
   sidebar:
