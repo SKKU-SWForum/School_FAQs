@@ -13,4 +13,4 @@ menu:
 
 # 학사일정
 
-{{< iframe https://calendar.google.com/calendar/embed?src=u0pobd4ls20l4okh66g1gb8jjg%40group.calendar.google.com&ctz=Asia%2FSeoul >}}
+{{< iframe "https://calendar.google.com/calendar/embed?src=u0pobd4ls20l4okh66g1gb8jjg%40group.calendar.google.com&ctz=Asia%2FSeoul" >}}
