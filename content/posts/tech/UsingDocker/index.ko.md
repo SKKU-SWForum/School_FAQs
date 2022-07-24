@@ -5,7 +5,7 @@ draft: false
 hero: images/commands-hero.png
 menu:
   sidebar:
-    name: 명령어 모음
+    name: Docker 사용하기
     identifier: tech-docker
     parent: tech
     weight: 10
