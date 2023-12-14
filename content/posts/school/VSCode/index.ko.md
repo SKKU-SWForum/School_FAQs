@@ -20,7 +20,7 @@ Visual Studio Code(이하 VSCode)는 다양한 플러그인을 활용할 수 있
 현재 인의예지 서버가 리소스 부족으로 자주 고통받고 있습니다. VSCode-Remote의 구동 특성상 자원을 많이 잡아먹기 때문에 되도록 VSCode를 통해서 연결하는 것은 지양해주시길 당부드립니다. 향후 Windows에서 docker 혹은 WSL을 이용한 리눅스 개발 관련 글도 작성하겠습니다.
 
 
-### 설치 방법
+## 설치 방법
 1. VSCode가 설치되지 않은 경우, [여기](https://code.visualstudio.com/)를 클릭하여 VSCode를 설치합니다.
 2. VSCode를 켜고 ![icon_plugin](./images/icon_plugin.PNG) 아이콘을 클릭합니다.
 3. 새로 열린 창에서 ```Remote - SSH```를 검색하고 나오는 플러그인을 설치합니다.

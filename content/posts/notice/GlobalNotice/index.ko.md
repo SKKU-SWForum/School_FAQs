@@ -12,7 +12,7 @@ menu:
 
 ## 공통 공지
 
-1. 내용에 대한 문의사항은 Issue를 통해서 받고 있습니다. 내용의 정정이 필요한 경우 Issue를 통해서 올려주세요.
+1. 내용에 대한 문의사항은 Issue를 통해서 받고 있습니다. 내용의 정정이 필요한 경우 [Issue](https://github.com/SKKU-SWForum/School_FAQs/issues)를 통해서 올려주세요.
 2. 모든 내용은 공개하고 있습니다. 따라서 자유롭게 복사하셔도 됩니다. 하지만 출처는 꼭 남겨주시길 부탁드립니다.
 3. Contribution도 받고 있습니다! 많은 분들의 기여 부탁드립니다!
 
@@ -31,4 +31,5 @@ menu:
 
 ## Contributors
 [여기를 확인해주세요.](https://github.com/SKKU-SWForum/School_FAQs#contributors)       
-현재 Maintainer는 [BlackRaven](https://github.com/raven724)입니다.
+현재 Maintainer는 [BlackRaven](https://github.com/raven724)입니다.    
+Maintainer가 바빠 불규칙적으로 업데이트됩니다.
