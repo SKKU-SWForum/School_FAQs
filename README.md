@@ -53,6 +53,15 @@ FAQ 정보들을 사이트화하면서 기여 방법이 일부 차이가 생겼�
 - 다만 학과 수업 등에 언급하시려는 경우에는 [여기를](https://github.com/SKKU-SWForum/School_FAQs/discussions/28) 통해서 언급 한번만 부탁드리겠습니다.
 - 언급된 페이지 내용에 문제가 있는 경우(업데이트가 이루어지지 않은 경우) 정정해야할 필요가 있기 때문입니다.
 - 확인 후 정정이 필요한 경우에는 Issue를 통해서 올려주시면 감사하겠습니다.
+
+
+## 수정 관련 당부 말씀
+- 최근 수정 요청 등 연락이 organization/repo issue 이외의 방식으로 오는 경우가 종종 있어 당부드립니다.
+- 관리자가 메일/repo issue 이외의 수단으로는 반응하기 어렵습니다.
+- **부디 repository issue/discussion 등을 활용해주세요.**
+- **이외의 방식은 답변을 받지 못할 수 있습니다.**
+- [Issue](https://github.com/SKKU-SWForum/School_FAQs/issues)
+- [discussion](https://github.com/SKKU-SWForum/School_FAQs/discussions/28)
 --------------------
 
 This repository is a collection of information that may help your college life, such as:

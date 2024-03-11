@@ -37,15 +37,12 @@ Students who want to use it can use it freely.
 - swji.skku.edu
 ```
 
-- SSH Port: 1398 (SKKU's date of establishment)
+- SSH Port: 1398 (SKKU's year of establishment)
 
-- ID: Student ID
+- ID: Last 8 digits from your student ID
 
-- Password: Last Name in full capital letters.
+- Password: Last Name
 
-```
-ex: PARK (If this throws an error, try writing your full name in capital letters, with no spaces)
-```
 
 - Others:
 
@@ -69,25 +66,20 @@ ex: PARK (If this throws an error, try writing your full name in capital letters
 | Type |   Value    | Remarks                                                                                                        |
 | :--: | :--------: | -------------------------------------------------------------------------------------------------------------- |
 | Port |    1398    | SKKU's date of establishment                                                                                   |
-|  ID  | Student ID | 10 digit                                                                                                       |
-|  PW  | Last Name  | All in capital letters; If this throws an error, try writing your full name in capital letters, with no spaces |
+|  ID  | Last 8 digits from Student ID |                                                                                                        |
+|  PW  | Last Name  |  |
 
 # FAQ
 
 ### Inuiyeji Cluster
 
-1. Please note that the server is divided by 'In' and 'uiyeji'.
-
-2. Is the server down?
-   - We'll provide a server status service soon.
-
-3. I can't connect to the server.
+1. I can't connect to the server.
    - This depends on the error.
      - `Connection reset by peer`: This is probably the server blocking your IP. Try accessing from a different IP.
      - It says my password is different: If you've ever connected to 'Inuiyeji' server before, try inserting your password and your last 8 digits of your student ID.
-     - If the above solution doesn't work: If you haven't logged in for a long time, your account may not have been created. You can contact Professor Nam Bum-suk and ask him to create an account for you. (Email address: [bnam@skku.edu](mailto:bnam@skku.edu))
+     - If the above solution doesn't work: If you haven't logged in for a long time, your account may locked or not created. You can contact below mail to create an account for you. (Email address: ([inuiyeji-skku@googlegroups.com](mailto:inuiyeji-skku@googlegroups.com)))
 
-4. How can I send/receive a file to/from 'Inuiyeji'?
+2. How can I send/receive a file to/from 'Inuiyeji'?
 
    - You can use `scp` command-line utility.
 
@@ -100,10 +92,11 @@ ex: PARK (If this throws an error, try writing your full name in capital letters
 
    [Mobaxterm 사용법](https://skkuoverflow.com/posts/mobaxterm/)
 
-5. I would like to change my password.
-   - You can use 'yppasswd' command to change password.
+3. I would like to change my password.
+   - Change the password at `in` server. (Master Node)
+   - After several times, other servers will also change the password via NIS.
 
-6. I can't copy the file. Is it because of permission problem?
+4. I can't copy the file. Is it because of permission problem?
    -  It generally happend when copying course assignment files.
    -  Firse, use command `cp /home/(Course ID)/(directory that your file is located)/* ~/`. If error is not occured, the you can copy the files. Check `cd` or `cd ~` to check if the file is properly copied.
    -  If error occures, you may cope with errors depends on which errors you got.
