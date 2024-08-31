@@ -55,8 +55,8 @@ menu:
    sftp를 지원하는 프로그램을 활용해도 되는데, 윈도우에는 대표적으로 Mobaxterm이 있습니다.
    자세한 내용은 [해당 문서](https://skkuoverflow.com/ko/posts/school/mobaxterm/)를 참고해주세요!     
          
-   ~~또다른 방법으로는 VSCode를 연동해서 파일을 보내는 방법도 있습니다. 자세한 내용은 [해당 문서](https://skkuoverflow.com/ko/posts/school/vscode)를 참고해주세요!~~
-   ~~다만 VSCode는 메모리 사용량이 높아 인의예지 서버에서 사용시 문제가 생길 수 있습니다. 부디 사용하실 때 주의해주세요!~~
+   ~~또다른 방법으로는 VSCode를 연동해서 파일을 보내는 방법도 있습니다. 자세한 내용은 [해당 문서](https://skkuoverflow.com/ko/posts/school/vscode)를 참고해주세요!~~        
+   ~~다만 VSCode는 메모리 사용량이 높아 인의예지 서버에서 사용시 문제가 생길 수 있습니다. 부디 사용하실 때 주의해주세요!~~        
    VSCode의 시스템 요구 사항 문제로 인의예지에서는 가급적 VSCode 사용을 자제 부탁드립니다.
 
 6. **인의예지 로그인 후 비밀번호를 바꾸고 싶어요!**
